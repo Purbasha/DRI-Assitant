@@ -1,2 +1,2 @@
 # DRI-Assitant
-automation in teh charter of DRIs
+automation in the charter of DRIs
